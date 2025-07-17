@@ -1,56 +1,40 @@
-## Olá, pessoal 👋
+# Joshua Graciano da Costa
 
-<!--
-**JoshuaDaCosta/JoshuaDaCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou o Joshua – um estudante de TI, empreendedor visionário, judoca disciplinado e cristão convicto. Sou de **Luanda, Angola**, e carrego no peito o sonho de transformar ideias em projetos que mudam vidas.
 
-Here are some ideas to get you started:
--->
-  🔭 Atualmente estou trabalhando em um projecto escolar para o fim de curso.<br>
-  🌱 Atualmente estou aprendendo análise de dados.<br>
-  👯 Procuro colaborar em empresas que realmente precisam de mim.<br>
-  🤔 Procuro solucionar problemas do quotidiano que o usuário enfrenta.<br>
-  💬 Pergunte-me sobre qualquer coisas.<br>
-  📫 Como entrar em contato comigo: com o cartão de contactos que está na descrição do perfil.<br>
-  ⚡ Curiosidade Inteligência artificial.<br>
- <picture>
-<!--   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JoshuaDaCosta&locale=pt-pt&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JoshuaDaCosta&locale=pt-pt&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaDaCosta&locale=pt-pt&show_icons=true" /> -->
-  
-<a href="https://github.com/JoshuaDaCosta/github-readme-stats">
-  <img width=42% height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=JoshuaDaCosta&locale=pt-pt" />
-</a>
-<a href="https://github.com/JoshuaDaCosta/convoychat">
-  <img width=50% height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaDaCosta&locale=pt-pt&layout=compact&bg_color=#fffefe&langs_count=8&
-    =320" />
-</a>
-</picture>
-<br><br><br>
+> “Enquanto uns reclamam da escuridão, eu aprendo a construir geradores.” ⚡
 
-<div style="display:inline_block  margin-top:10px">
-  
- <img height=150px width=300px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />         
+## 🚀 O que estou construindo
 
+Atualmente, estou trabalhando em projetos que misturam **tecnologia**, **inovação social** e **futurismo africano**:
 
- <img height=150px width=300px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />         
+- 🔧 **[VRUMM](https://github.com/JoshuaDaCosta/VRUMM)** – App de mobilidade urbana sem frota própria.
+- 🛡 **Drone de Defesa Pessoal** – Um drone autônomo com vigilância e resposta a emergências.
+- 💸 **[KIXIKILA](https://github.com/JoshuaDaCosta/KIXIKILA)** – Sistema digital de poupança comunitária.
+- ♻ **LIXOKUMBO** – Reciclagem inteligente com upcycling criativo e tecnologia local.
+- 🥁 **[Mambobeat](https://github.com/JoshuaDaCosta/Mambobeat)** – Plataforma para beatmakers africanos.
 
+## 🧠 Habilidades
 
- <img height=150px width=300px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />         
+- Linguagens: `Python`, `HTML`, `CSS`, `JavaScript`, `PHP`, `C`, `C++`, `C#`
+- Frameworks: `Django`, `Flask`, `KivyMD`, `Bootstrap`
+- Ferramentas: `Git`, `GitHub`, `Figma`, `Firebase`, `MySQL`, `MongoDB`
+- Outras skills: Automação de redes, montagem/manutenção de infra, análise técnica (trading), design de app futurista
 
+## 📚 Em progresso
 
- <img height=150px width=300px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />         
+- 🧠 Estudando redes e telecomunicações
+- 📱 Aprendendo desenvolvimento mobile com **KivyMD**
+- 🔒 Mergulhando em segurança digital e automações
+- 💼 Construindo portfólio para atuar como freelancer full-stack
 
- <img height=150px width=300px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />         
+## 📫 Vamos conectar?
 
- <img height=150px width=300px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />         
+- 🌍 GitHub: [github.com/JoshuaDaCosta](https://github.com/JoshuaDaCosta)
+- 📧 Email: joshuacosta120@gmail.com
+- 📱 LinkedIn (em breve...)
+- 🧠 Blog pessoal (a caminho...)
 
+---
 
- <img height=150px width=300px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />         
- 
-</div>
+> “África não é o futuro. **África é o agora**. E eu tô aqui pra provar isso com código, visão e atitude.” 
