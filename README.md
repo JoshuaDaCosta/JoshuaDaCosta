@@ -1,4 +1,4 @@
-# 👋🏽 Olá, eu sou o Joshua Graciano da Costa 🇦🇴
+# 👋🏽 Olá, eu sou o Joshua Da Costa 🇦🇴.
 
 🧠 Visionário, programador, judoca e cristão — sou movido por ideias ousadas e projetos que desafiam o sistema.  
 🚀 Atuo como Dev Freelancer e fundador de startups tecnológicas em Angola.  
