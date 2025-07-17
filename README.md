@@ -51,9 +51,10 @@
 ## 📫 Conecta comigo
 
 - 🌍 GitHub: [@JoshuaDaCosta](https://github.com/JoshuaDaCosta)
+- 🌍 Website (em construção): [joshuadacosta.github.io/](https://joshuadacosta.github.io/)
 - 💼 LinkedIn: https://www.linkedin.com/in/joshua-dacosta-/
 - 📧 Email: joshuacosta120@gmail.com
-- 🌍 Website (em construção): joshuadacosta.github.io/
+
 ---
 
 ## 🌟 Visão de Futuro
